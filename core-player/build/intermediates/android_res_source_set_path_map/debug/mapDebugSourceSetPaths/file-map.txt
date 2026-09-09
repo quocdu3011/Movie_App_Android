@@ -1,0 +1,8 @@
+com.example.movieapp.core.player.core-player-pngs-0 /media/Data/Ki_1_nam_5/Android_MoveApp/core-player/build/generated/res/pngs/debug
+com.example.movieapp.core.player.core-player-updated_navigation_xml-1 /media/Data/Ki_1_nam_5/Android_MoveApp/core-player/build/generated/updated_navigation_xml/debug
+com.example.movieapp.core.player.core-player-mergeDebugResources-2 /media/Data/Ki_1_nam_5/Android_MoveApp/core-player/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.movieapp.core.player.core-player-mergeDebugResources-3 /media/Data/Ki_1_nam_5/Android_MoveApp/core-player/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.movieapp.core.player.core-player-debug-4 /media/Data/Ki_1_nam_5/Android_MoveApp/core-player/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.movieapp.core.player.core-player-debug-5 /media/Data/Ki_1_nam_5/Android_MoveApp/core-player/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.movieapp.core.player.core-player-debug-6 /media/Data/Ki_1_nam_5/Android_MoveApp/core-player/src/debug/res
+com.example.movieapp.core.player.core-player-main-7 /media/Data/Ki_1_nam_5/Android_MoveApp/core-player/src/main/res

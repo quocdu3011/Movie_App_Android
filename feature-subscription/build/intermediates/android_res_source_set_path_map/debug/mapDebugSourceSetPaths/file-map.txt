@@ -1,0 +1,8 @@
+com.example.movieapp.feature.subscription.feature-subscription-pngs-0 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-subscription/build/generated/res/pngs/debug
+com.example.movieapp.feature.subscription.feature-subscription-updated_navigation_xml-1 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-subscription/build/generated/updated_navigation_xml/debug
+com.example.movieapp.feature.subscription.feature-subscription-mergeDebugResources-2 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-subscription/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.movieapp.feature.subscription.feature-subscription-mergeDebugResources-3 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-subscription/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.movieapp.feature.subscription.feature-subscription-debug-4 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-subscription/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.movieapp.feature.subscription.feature-subscription-debug-5 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-subscription/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.movieapp.feature.subscription.feature-subscription-debug-6 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-subscription/src/debug/res
+com.example.movieapp.feature.subscription.feature-subscription-main-7 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-subscription/src/main/res

@@ -1,0 +1,20 @@
+plugins {
+    alias(libs.plugins.android.library)
+
+}
+
+android {
+    namespace = "com.example.movieapp.core.player"
+    compileSdk = 37
+    defaultConfig { minSdk = 24 }
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation(libs.bundles.media3)
+    implementation(libs.okhttp)
+    implementation(libs.kotlinx.coroutines.android)
+}
