@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7350687888321255089.xml:2:13-83
-INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7350687888321255089.xml:2:13-83
+ADDED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2275701417411079437.xml:2:13-83
+INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2275701417411079437.xml:2:13-83
 	package
-		INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7350687888321255089.xml
+		INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2275701417411079437.xml
 	xmlns:android
-		ADDED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7350687888321255089.xml:2:23-81
+		ADDED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2275701417411079437.xml:2:23-81
 uses-sdk
-INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7350687888321255089.xml reason: use-sdk injection requested
-INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7350687888321255089.xml
-INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7350687888321255089.xml
+INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2275701417411079437.xml reason: use-sdk injection requested
+INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2275701417411079437.xml
+INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2275701417411079437.xml
 	android:targetSdkVersion
-		INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7350687888321255089.xml
+		INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2275701417411079437.xml
 	android:minSdkVersion
-		INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7350687888321255089.xml
+		INJECTED from /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest2275701417411079437.xml

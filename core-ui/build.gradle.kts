@@ -1,6 +1,6 @@
 plugins {
     alias(libs.plugins.android.library)
-
+    alias(libs.plugins.kotlin.compose)
 }
 
 android {
@@ -18,4 +18,5 @@ dependencies {
     implementation(libs.bundles.compose)
     implementation(libs.coil.compose)
     implementation(libs.coil.network.okhttp)
+    implementation(libs.androidx.compose.material.icons.extended)
 }
