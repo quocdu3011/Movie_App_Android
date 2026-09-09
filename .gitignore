@@ -1,16 +1,32 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Gradle
+.gradle/
+/build/
+**/build/
+
+# Local machine configuration
 local.properties
-./frontend-chi-tiet.mc
+*.keystore
+*.jks
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/*
+!.idea/runConfigurations/
+!.idea/runConfigurations/*
+
+# Android build and native tooling
+.externalNativeBuild/
+.cxx/
+/captures/
+
+# Generated and temporary files
+.DS_Store
+Thumbs.db
+*.log
+/tmp/
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+/document/

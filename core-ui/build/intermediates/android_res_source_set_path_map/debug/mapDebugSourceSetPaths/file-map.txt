@@ -1,8 +1,0 @@
-com.example.movieapp.core.ui.core-ui-pngs-0 /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/generated/res/pngs/debug
-com.example.movieapp.core.ui.core-ui-updated_navigation_xml-1 /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/generated/updated_navigation_xml/debug
-com.example.movieapp.core.ui.core-ui-mergeDebugResources-2 /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.example.movieapp.core.ui.core-ui-mergeDebugResources-3 /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.example.movieapp.core.ui.core-ui-debug-4 /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.movieapp.core.ui.core-ui-debug-5 /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/build/intermediates/packaged_res/debug/packageDebugResources
-com.example.movieapp.core.ui.core-ui-debug-6 /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/src/debug/res
-com.example.movieapp.core.ui.core-ui-main-7 /media/Data/Ki_1_nam_5/Android_MoveApp/core-ui/src/main/res

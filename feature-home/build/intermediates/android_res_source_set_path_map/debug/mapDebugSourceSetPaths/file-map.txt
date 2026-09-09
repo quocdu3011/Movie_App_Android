@@ -1,8 +1,0 @@
-com.example.movieapp.feature.home.feature-home-pngs-0 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-home/build/generated/res/pngs/debug
-com.example.movieapp.feature.home.feature-home-updated_navigation_xml-1 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-home/build/generated/updated_navigation_xml/debug
-com.example.movieapp.feature.home.feature-home-mergeDebugResources-2 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-home/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.example.movieapp.feature.home.feature-home-mergeDebugResources-3 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-home/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.example.movieapp.feature.home.feature-home-debug-4 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-home/build/intermediates/merged_res/debug/mergeDebugResources
-com.example.movieapp.feature.home.feature-home-debug-5 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-home/build/intermediates/packaged_res/debug/packageDebugResources
-com.example.movieapp.feature.home.feature-home-debug-6 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-home/src/debug/res
-com.example.movieapp.feature.home.feature-home-main-7 /media/Data/Ki_1_nam_5/Android_MoveApp/feature-home/src/main/res
